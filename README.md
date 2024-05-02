@@ -45,7 +45,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone [https://github.com/username/emotion-detector.git](https://github.com/atulsolo/Emotion-Dectector.git)
+git clone (https://github.com/atulsolo/Emotion-Dectector.git)
 Install dependencies:
 Copy code
 pip install -r requirements.txt

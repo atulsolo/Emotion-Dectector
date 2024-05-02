@@ -15,7 +15,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/username/emotion-detector.git
+git clone [https://github.com/username/emotion-detector.git](https://github.com/atulsolo/Emotion-Dectector.git)
 Install dependencies:
 Copy code
 pip install -r requirements.txt
@@ -45,7 +45,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/username/emotion-detector.git
+git clone [https://github.com/username/emotion-detector.git](https://github.com/atulsolo/Emotion-Dectector.git)
 Install dependencies:
 Copy code
 pip install -r requirements.txt
@@ -69,23 +69,3 @@ Cloud Deployment: Utilize cloud platforms like AWS, Azure, or Google Cloud for s
 Containerization: Package the application into Docker containers for easy deployment and management.
 Contributing
 Contributions are welcome! Please feel free to submit bug reports, feature requests, or pull requests to help improve Emotion Detector.
-
-License
-This project is licensed under the MIT License.
-
-Credits
-Emotion Detector is developed and maintained by [Your Name]. Special thanks to the open-source community for their contributions and support. predict with JSON data containing the text to analyze. The API will respond with emotion predictions.
-Customization
-Model Fine-Tuning: Users can fine-tune the pre-trained model using their own dataset to improve performance on specific types of text.
-Data Augmentation: Augment training data to increase model robustness and generalization.
-Hyperparameter Optimization: Adjust model parameters for better performance on specific tasks or datasets.
-Deployment
-Local Deployment: Deploy the application on local machines for individual use.
-Cloud Deployment: Utilize cloud platforms like AWS, Azure, or Google Cloud for scalable deployment.
-Containerization: Package the application into Docker containers for easy deployment and management.
-Contributing
-Contributions are welcome! Please feel free to submit bug reports, feature requests, or pull requests to help improve Emotion Detector.
-
-
-Credits
-Emotion Detector is developed and maintained by Atul Sharma. Special thanks to the open-source community for their contributions and support.
